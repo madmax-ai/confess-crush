@@ -1,8 +1,8 @@
 const CONFIG = {
     titleWeb: "Web Title",
-    introTitle: 'ena',
-    introDesc: `kenapa hari ii merajuk :(`,
-    btnIntro: '^^HiHi^^',
+    introTitle: '',
+    introDesc: `ena merajuk lagi ke?`,
+    btnIntro: 'ye',
     title: 'ena jangan lah merajuk:(',
     desc: 'ena merajuk lagi ke? ',
     btnYes: 'tak :)',
